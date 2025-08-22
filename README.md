@@ -8,7 +8,7 @@
 
 - 💡 &nbsp;Me desempeño como QA y este 2025 finalice mi certificacion!
 - 🎓 &nbsp;He trabajado como QA manual por 2 años en una startup (edtech) en Colombia.
-- 🌱 &nbsp;Ahora puedo atomatizar pruebas y he profundizado mi conocimiento en QA.
+- 👾 &nbsp;Ahora puedo atomatizar pruebas y he profundizado mi conocimiento en QA.
 - ✍️ &nbsp;Algunas de mis habilidades de QA:
 - Testing: Pruebas de humo / regresión / UI / pruebas móviles (Android Studio) / APIs (Postman).
 - Automatización: Python / Selenium / Pytest.
@@ -16,6 +16,9 @@
 - Gestión: Jira, análisis de requisitos, diseño y documentación de casos de prueba.
 - Metodologías: Agile/Scrum.
 - Otros: HTTP, reportes de defectos.
+
+👨🏻‍💻 Con estas habilidades, he automatizado pruebas para una app web de servicios de alquiler de vehiculos, mejorando los procesos y la velocidad en la ejecucion de las pruebas. 
+  
 
 
 
